@@ -6,6 +6,7 @@ I'm starting off with C, we will see what happens after that.
 
 ## Project Structure
 Here's what I got so far and where I'm going:
+```
 .
 ├── c
 │   ├── arrays
@@ -17,4 +18,5 @@ Here's what I got so far and where I'm going:
 │   ├── hash_tables
 │   └── graphs
 └── README.md
+```
 
